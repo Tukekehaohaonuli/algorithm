@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "map": "cpp"
+    }
+    "main 代码段": {
+        "prefix": "psvm",
+        "body": [
+          "public static void main(String [] args){",
+          "}"
+        ],
+        "description": "main 代码段"
+      }
+}
